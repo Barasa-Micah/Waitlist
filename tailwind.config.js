@@ -4,7 +4,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Inter', 'sans-serif']
+        cookie: ['Cookie', 'Cursive'],
+        poppins: ['Poppins', 'Sans-serif'],
+        montserrat: ['Montserrat', 'sans-serif']
       }
     },
   },
