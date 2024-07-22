@@ -6,7 +6,8 @@ module.exports = {
       fontFamily: {
         cookie: ['Cookie', 'Cursive'],
         poppins: ['Poppins', 'Sans-serif'],
-        montserrat: ['Montserrat', 'sans-serif']
+        montserrat: ['Montserrat', 'sans-serif'],
+        roboto: ['Roboto', 'sans-serif']
       }
     },
   },
